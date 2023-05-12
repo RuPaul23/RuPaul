@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Frontend developer || Aerospace Enthusiast || Game Developer(Unity & UE4) || Front End Developer || AI Developer || App Developer || Web Developer || UI/UX Designer</h3>
+<h3 align="center">A passionate Aerospace Enthusiast || Game Developer(Unity & UE4) || Front End Developer || AI Developer || App Developer || Web Developer || UI/UX Designer</h3>
 
 - 🔭 I’m currently working on **AUX (Battle Royale Game)**
 
