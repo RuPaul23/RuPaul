@@ -1,9 +1,21 @@
+![MasterHead](https://wallpaperaccess.com/full/8351156.gif)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Aerospace Enthusiast || Game Developer(Unity & UE4) || Front End Developer || AI Developer || App Developer || Web Developer || UI/UX Designer</h3>
+<h3 align="center">A passionate Frontend developer || Aerospace Enthusiast || Game Developer(Unity & UE4) || Front End Developer || AI Developer || App Developer || Web Developer || UI/UX Designer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+
+<p align="left"> <img " width="200" src="https://i.gifer.com/EBAr.gif"> </p>
+
 
 - 🔭 I’m currently working on **AUX (Battle Royale Game)**
 
+- 🌱 I’m currently learning **DevOps, Unreal Engine 4 & Unity**
+
+- 💬 Ask me about **Android , GameDev, AppDev, WebDev**
+
 - 📫 How to reach me **paulrohit2021@gmai.com**
+
+- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
