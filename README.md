@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Frontend developer || Aerospace Enthusiast || Game Developer(Unity & UE4) || Front End Developer || AI Developer || App Developer || Web Developer || UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-<p align="left"> <img " width="200" src="https://i.gifer.com/EBAr.gif"> </p>
-
-
+# About Me
 - 🔭 I’m currently working on **AUX (Battle Royale Game)**
 
 - 🌱 I’m currently learning **DevOps, Unreal Engine 4 & Unity**
