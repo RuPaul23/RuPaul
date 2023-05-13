@@ -17,7 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rupaul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupaul23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitpaul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitpaul23" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/devru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devru" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rupaul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupaul23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rupaul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rupaul23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
