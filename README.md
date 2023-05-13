@@ -31,7 +31,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RuPaul23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Listen to my favourite song! 🎧
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gZU67zHJdAo/0.jpg)](https://www.youtube.com/watch?v=gZU67zHJdAo)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/rupaul23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/rupaul23" /></a></p><br><br>
