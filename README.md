@@ -6,7 +6,7 @@
 # About Me
 - 🔭 I’m currently working on **AUX (Battle Royale Game)**
 
-- 🌱 I’m currently learning **DevOps, Unreal Engine 4 & Unity**
+- 🌱 I’m currently learning **Flutter, MERN, Unreal Engine 4 & Unity**
 
 - 💬 Ask me about **Android , GameDev, AppDev, WebDev**
 
@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact **I am Funny**
 
+- 📌 Working on two large projects, People and Prescribo, at the moment
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rupaul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupaul23" height="30" width="40" /></a>
