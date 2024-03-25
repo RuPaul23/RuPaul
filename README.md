@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android , GameDev, AppDev, WebDev**
 
-- 📫 How to reach me **paulrohit2021@gmai.com**
+- 📫 How to reach me **paulrohit2021@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
